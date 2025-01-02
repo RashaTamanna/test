@@ -11,7 +11,7 @@
 
 ?>
 
-<h1>Your password has been captured</h1>
+<h1>ok done</h1>
 <?php
 
 ?>
